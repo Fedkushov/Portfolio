@@ -57,4 +57,4 @@ Python, Pandas, Matplotlib, Seaborn, Datetime, Scikit-learn  (StandardScaler, KM
 1. [Презентация](https://disk.yandex.ru/i/PERaTh4jVi-O0Q)
 
 
-2. [Дашборд]()
+2. [Дашборд](https://public.tableau.com/app/profile/grigorii.fedkushov/viz/banks_yarik/Dashboard1)
